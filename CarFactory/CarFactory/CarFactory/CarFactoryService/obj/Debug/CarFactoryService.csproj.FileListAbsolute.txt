@@ -1,0 +1,12 @@
+c:\users\desmondm\documents\visual studio 2012\Projects\CarFactory\CarFactoryService\bin\Debug\CarFactoryService.dll.config
+c:\users\desmondm\documents\visual studio 2012\Projects\CarFactory\CarFactoryService\bin\Debug\CarFactoryService.dll
+c:\users\desmondm\documents\visual studio 2012\Projects\CarFactory\CarFactoryService\bin\Debug\CarFactoryService.pdb
+c:\users\desmondm\documents\visual studio 2012\Projects\CarFactory\CarFactoryService\obj\Debug\CarFactoryService.dll
+c:\users\desmondm\documents\visual studio 2012\Projects\CarFactory\CarFactoryService\obj\Debug\CarFactoryService.pdb
+C:\Users\desmondm\Documents\Visual Studio 2012\Projects\CarFactory\CarFactoryService\obj\Debug\CarFactoryService.csprojResolveAssemblyReference.cache
+C:\Users\Desmond\Documents\Visual Studio 2012\Projects\CarFactory\CarFactoryService\bin\Debug\CarFactoryService.dll.config
+C:\Users\Desmond\Documents\Visual Studio 2012\Projects\CarFactory\CarFactoryService\bin\Debug\CarFactoryService.dll
+C:\Users\Desmond\Documents\Visual Studio 2012\Projects\CarFactory\CarFactoryService\bin\Debug\CarFactoryService.pdb
+C:\Users\Desmond\Documents\Visual Studio 2012\Projects\CarFactory\CarFactoryService\obj\Debug\CarFactoryService.dll
+C:\Users\Desmond\Documents\Visual Studio 2012\Projects\CarFactory\CarFactoryService\obj\Debug\CarFactoryService.pdb
+C:\Users\Desmond\Documents\Visual Studio 2012\Projects\CarFactory\CarFactoryService\obj\Debug\CarFactoryService.csprojResolveAssemblyReference.cache
